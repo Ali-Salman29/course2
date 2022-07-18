@@ -1,0 +1,10 @@
+<video youtube="1.00:yYSkAbvqNB8" url_name="5b9fbe72400d434d99c1aeaa5edafb70" sub="" transcripts="{&quot;en&quot;: &quot;be18deca-ef38-4a66-8e87-668166bbc74b-en.srt&quot;, &quot;fr&quot;: &quot;be18deca-ef38-4a66-8e87-668166bbc74b-fr.srt&quot;}" display_name="Why this course?" edx_video_id="be18deca-ef38-4a66-8e87-668166bbc74b" html5_sources="[]" youtube_id_1_0="yYSkAbvqNB8">
+  <video_asset client_video_id="external video" duration="0.0" image="">
+    <transcripts>
+      <transcript language_code="en" file_format="srt" provider="Custom"/>
+      <transcript language_code="fr" file_format="srt" provider="Custom"/>
+    </transcripts>
+  </video_asset>
+  <transcript language="en" src="be18deca-ef38-4a66-8e87-668166bbc74b-en.srt"/>
+  <transcript language="fr" src="be18deca-ef38-4a66-8e87-668166bbc74b-fr.srt"/>
+</video>
