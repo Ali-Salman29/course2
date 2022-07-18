@@ -1,12 +1,12 @@
 {
-    "course/en": {
+    "course/2000": {
         "cert_html_view_enabled": true,
         "discussion_topics": {
             "General": {
                 "id": "course"
             }
         },
-        "display_name": "Final Review Course",
+        "display_name": "Dev To Stage",
         "language": "en",
         "start": "2030-01-01T00:00:00Z",
         "tabs": [
@@ -40,12 +40,6 @@
                 "name": "Progress",
                 "type": "progress"
             }
-        ],
-        "xml_attributes": {
-            "filename": [
-                "course/en.xml",
-                "course/en.xml"
-            ]
-        }
+        ]
     }
 }
